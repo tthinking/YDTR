@@ -1,2 +1,2 @@
 # YDTR
-The YDTR is under the second-round revision. The source code will be released once accepted.
+The YDTR is under the third-round revision. The source code will be released once accepted.
