@@ -13,7 +13,7 @@ This is the official implementation of the YDTR model proposed in the paper ([YD
 </ul>
 
 # Cite the paper
-If you use this code for your scientific work, please cite it as::</p>
+If this work is helpful to you, please cite it as:</p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@ARTICLE{Tang_2022_YDTR,
   author={Tang, Wei and He, Fazhi and Liu, Yu},
   journal={IEEE Transactions on Multimedia}, 
