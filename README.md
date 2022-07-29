@@ -1,1 +1,1 @@
-Code of YDTR: Infrared and Visible Image Fusion via Y-shape Dynamic Transformer.
+YDTR: Infrared and Visible Image Fusion via Y-shape Dynamic Transformer.
