@@ -1,0 +1,12 @@
+name: 1e-3lr_32batch_size_10epochs_1ssimIR_0.05ssimVI_0.0006sf_IR_0.00025sf_VI_add_rgb_2depth_1-sf
+epochs: 10
+batch_size: 32
+lr: 0.001
+weight: [1, 0.05, 0.0006, 0.00025]
+gamma: 0.9
+betas: (0.9, 0.999)
+eps: 1e-08
+weight_decay: 0.0005
+num_queries: 100
+position_embedding: sine
+alpha: 300
