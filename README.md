@@ -8,8 +8,8 @@ This is the official implementation of the YDTR model proposed in the paper ([YD
 <li>PyTorch 1.9.1</li>
 <li>Numpy</li>
 <li>tqdm</li>
-<li>glob</li>
 <li>pandas</li>
+<li>joblib</li>
 </ul>
 
 # Cite the paper
