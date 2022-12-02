@@ -11,6 +11,7 @@ This is the official implementation of the YDTR model proposed in the paper ([YD
 <li>pandas</li>
 <li>joblib</li>
 <li>matplotlib</li>
+<li>timm</li>
 </ul>
 
 # Cite the paper
