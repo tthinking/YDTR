@@ -24,17 +24,17 @@ If this work is helpful to you, please cite it as:</p>
   journal={IEEE Transactions on Multimedia}, 
   title={YDTR: Infrared and Visible Image Fusion via Y-shape Dynamic Transformer}, 
   year={2022},
-  volume={},
+  volume={25},
   number={},
-  pages={1-16},
+  pages={5413-5428},
   doi={10.1109/TMM.2022.3192661}}"><pre class="notranslate"><code>@ARTICLE{Tang_2022_YDTR,
   author={Tang, Wei and He, Fazhi and Liu, Yu},
   journal={IEEE Transactions on Multimedia}, 
   title={YDTR: Infrared and Visible Image Fusion via Y-shape Dynamic Transformer}, 
   year={2022},
-  volume={},
+  volume={25},
   number={},
-  pages={1-16},
+  pages={5413-5428},
   doi={10.1109/TMM.2022.3192661}}
 </code></pre></div>
 
