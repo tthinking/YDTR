@@ -19,19 +19,19 @@ Refer to [DPCN-Fusion](https://github.com/tthinking/DPCN-Fusion/blob/master/test
 
 # Cite the paper
 If this work is helpful to you, please cite it as:</p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@ARTICLE{Tang_2022_YDTR,
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@ARTICLE{Tang_2023_YDTR,
   author={Tang, Wei and He, Fazhi and Liu, Yu},
   journal={IEEE Transactions on Multimedia}, 
   title={YDTR: Infrared and Visible Image Fusion via Y-shape Dynamic Transformer}, 
-  year={2022},
+  year={2023},
   volume={25},
   number={},
   pages={5413-5428},
-  doi={10.1109/TMM.2022.3192661}}"><pre class="notranslate"><code>@ARTICLE{Tang_2022_YDTR,
+  doi={10.1109/TMM.2022.3192661}}"><pre class="notranslate"><code>@ARTICLE{Tang_2023_YDTR,
   author={Tang, Wei and He, Fazhi and Liu, Yu},
   journal={IEEE Transactions on Multimedia}, 
   title={YDTR: Infrared and Visible Image Fusion via Y-shape Dynamic Transformer}, 
-  year={2022},
+  year={2023},
   volume={25},
   number={},
   pages={5413-5428},
